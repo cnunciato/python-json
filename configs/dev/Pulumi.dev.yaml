@@ -1,0 +1,3 @@
+config:
+  aws:region: us-west-2
+  python-json:bucket_path: ../configs/dev/buckets.json

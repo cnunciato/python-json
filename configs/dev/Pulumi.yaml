@@ -1,0 +1,7 @@
+name: python-json
+runtime:
+  name: python
+  options:
+    virtualenv: ../../venv
+main: ../../src
+description: A minimal AWS Python Pulumi program
